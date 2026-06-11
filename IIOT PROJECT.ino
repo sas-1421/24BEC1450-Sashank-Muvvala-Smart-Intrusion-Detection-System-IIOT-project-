@@ -6,7 +6,7 @@ const char* ssid     = "Wokwi-GUEST";
 const char* password = "";
 
 // ThingSpeak
-const char* apiKey   = "";  
+const char* apiKey   = "API KEY";  
 const char* server   = "http://api.thingspeak.com/update";
 
 const int PIR_PIN = 13;
