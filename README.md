@@ -25,3 +25,5 @@ The project demonstrates the practical application of Internet of Things (IoT) t
 * Wokwi Simulator
 * ThingSpeak Cloud Platform
 * HTTP Communication Protocol
+
+Demo Video: The video demonstrates motion detection using the PIR sensor and real-time cloud updates to ThingSpeak. The simulation workflow can be observed directly through the circuit behavior and dashboard updates.
